@@ -1,2 +1,2 @@
 # python-
-hello this is first respotiory for python
+hello this is first repositories for python
